@@ -1,0 +1,74 @@
+[
+ {
+  "file": "v15-detect-01.jpg",
+  "w": 1600,
+  "h": 1600,
+  "angle": "frente/hero 3-4 direita com laser Fluffy Optic",
+  "source": "Target (target.com A-88378379, Dyson-supplied render)",
+  "source_url": "https://target.scene7.com/is/image/Target/GUEST_55441119-48ea-4216-8175-65abe4cf4d13"
+ },
+ {
+  "file": "v15-detect-02.jpg",
+  "w": 1600,
+  "h": 1600,
+  "angle": "hero 3-4 direita com acessorios enfileirados a esquerda (sem laser)",
+  "source": "JB Hi-Fi (jbhifi.com.au dyson-v15-detect-absolute)",
+  "source_url": "https://cdn.shopify.com/s/files/1/0024/9803/5810/files/899278-Product-0-I-639152807405679475.jpg"
+ },
+ {
+  "file": "v15-detect-03.jpg",
+  "w": 615,
+  "h": 923,
+  "angle": "frente (vista frontal reta)",
+  "source": "Dyson official (in-the-box spec image, painel esquerdo)",
+  "source_url": "https://dyson-h.assetsadobe2.com/is/image/content/dam/dyson/images/specifications/home/floorcare/cordless/Web_V15_detect_PDP_image_in-the-box_B.png"
+ },
+ {
+  "file": "v15-detect-04.jpg",
+  "w": 420,
+  "h": 840,
+  "angle": "3-4 esquerda (lado do gatilho)",
+  "source": "Dyson official AU (spec image, painel esquerdo)",
+  "source_url": "https://dyson-h.assetsadobe2.com/is/image/content/dam/dyson/leap-petite-global/markets/australia/floor-care/2023-v15/248P_Ebay_Specs_yellow-Nickel_Large_copy.png"
+ },
+ {
+  "file": "v15-detect-05.jpg",
+  "w": 769,
+  "h": 1500,
+  "angle": "frente com acessorios no chao (foto de estudio)",
+  "source": "Amazon.co.uk (B0CH5QWSGK)",
+  "source_url": "https://m.media-amazon.com/images/I/61LsOhLYNTL._AC_SL1500_.jpg"
+ },
+ {
+  "file": "v15-detect-06.jpg",
+  "w": 1680,
+  "h": 1153,
+  "angle": "perfil/lado do corpo handheld (motor + ciclone + cabo)",
+  "source": "Amazon.co.uk (B0CH5QWSGK)",
+  "source_url": "https://m.media-amazon.com/images/I/714WuCiVdHL._AC_SL1500_.jpg"
+ },
+ {
+  "file": "v15-detect-07.jpg",
+  "w": 1710,
+  "h": 1637,
+  "angle": "costas/traseira 3-4 do corpo handheld (lado do filtro)",
+  "source": "Amazon.co.uk (B0CH5QWSGK)",
+  "source_url": "https://m.media-amazon.com/images/I/718+6aQ1UvL._AC_SL1500_.jpg"
+ },
+ {
+  "file": "v15-detect-08.jpg",
+  "w": 1500,
+  "h": 883,
+  "angle": "detalhe: handheld com combination tool acoplado",
+  "source": "Amazon.co.uk (B0CH5QWSGK)",
+  "source_url": "https://m.media-amazon.com/images/I/71RkJpo6lmL._AC_SL1500_.jpg"
+ },
+ {
+  "file": "v15-detect-09.jpg",
+  "w": 1500,
+  "h": 1145,
+  "angle": "todos os acessorios/attachments enfileirados (dock, Motorbar, Fluffy Optic, crevice, hair screw, combination, clip)",
+  "source": "Amazon.co.uk (B0CH5QWSGK)",
+  "source_url": "https://m.media-amazon.com/images/I/71wva7oP7rL._AC_SL1500_.jpg"
+ }
+]

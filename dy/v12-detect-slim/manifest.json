@@ -1,0 +1,42 @@
+[
+ {
+  "file": "v12-detect-slim-01.jpg",
+  "w": 2880,
+  "h": 1620,
+  "angle": "frente/hero 3-4 com acessorios ao redor",
+  "source": "dyson.com (official gallery hero, PDP_1)",
+  "source_url": "https://dyson-h.assetsadobe2.com/is/image/content/dam/dyson/images/gallery/home/floorcare/cordless/v12-detect-slim/Web_V12_Detect-Slim_Gallery_PDP_1.jpg?fmt=jpg&scl=1&qlt=95"
+ },
+ {
+  "file": "v12-detect-slim-02.jpg",
+  "w": 468,
+  "h": 1728,
+  "angle": "frente (reta, laser ligado)",
+  "source": "bestbuy.com (SKU 6504483, V12 Detect Slim yellow/iron)",
+  "source_url": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6504/6504483cv21d.jpg;maxHeight=1600;maxWidth=1600"
+ },
+ {
+  "file": "v12-detect-slim-03.jpg",
+  "w": 680,
+  "h": 1500,
+  "angle": "3/4 (produto inclinado)",
+  "source": "amazon.com (ASIN B0B76XZZDT, V12 Detect Slim Absolute 394167-01)",
+  "source_url": "https://m.media-amazon.com/images/I/41dAybd444L._AC_SL1500_.jpg"
+ },
+ {
+  "file": "v12-detect-slim-04.jpg",
+  "w": 1728,
+  "h": 461,
+  "angle": "perfil/lado (deitado na horizontal)",
+  "source": "bestbuy.com (SKU 6504483)",
+  "source_url": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6504/6504483cv22d.jpg;maxHeight=1600;maxWidth=1600"
+ },
+ {
+  "file": "v12-detect-slim-05.jpg",
+  "w": 1728,
+  "h": 1403,
+  "angle": "todos os acessorios/attachments enfileirados (2 cabecas, hair screw, crevice, combination, carregador, dock)",
+  "source": "bestbuy.com (SKU 6504483)",
+  "source_url": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6504/6504483_sd.jpg;maxHeight=1600;maxWidth=1600"
+ }
+]

@@ -1,0 +1,34 @@
+[
+ {
+  "file": "hushjet-mini-cool-01.jpg",
+  "w": 2048,
+  "h": 2048,
+  "angle": "frente (hero), cabeca inclinada",
+  "source": "JB Hi-Fi (jbhifi.com.au) - Dyson official front packshot, Stone/Blush, 2048px",
+  "source_url": "https://cdn.shopify.com/s/files/1/0024/9803/5810/files/906958-Product-0-I-639219381604285166.jpg?width=2048"
+ },
+ {
+  "file": "hushjet-mini-cool-02.jpg",
+  "w": 892,
+  "h": 669,
+  "angle": "frente, as 3 cores lado a lado (Ink/Cobalt, Carnelian/Sky, Stone/Blush)",
+  "source": "kakaku.com (imagem do fabricante) - line-up das 3 cores",
+  "source_url": "https://img1.kakaku.k-img.com/images/productimage/fullscale/K0001780210_0001.jpg"
+ },
+ {
+  "file": "hushjet-mini-cool-03.jpg",
+  "w": 1280,
+  "h": 1810,
+  "angle": "3/4 direita, cabeca inclinada, apoiado na base de carga (charging stand)",
+  "source": "design-milk.com (press kit Dyson, packshot oficial) - Stone/Blush encaixado na base de carga",
+  "source_url": "https://design-milk.com/images/2026/04/Dyson-hushjet-minicool-personal-fan-07.jpg"
+ },
+ {
+  "file": "hushjet-mini-cool-04.jpg",
+  "w": 1011,
+  "h": 2048,
+  "angle": "frente, com o acessorio neck dock (cordao) instalado no ventilador",
+  "source": "design-milk.com (press kit Dyson, packshot oficial) - Stone/Blush com neck dock instalado",
+  "source_url": "https://design-milk.com/images/2026/04/Dyson-hushjet-minicool-personal-fan-03.jpg"
+ }
+]

@@ -1,0 +1,42 @@
+[
+ {
+  "file": "car-boat-01.jpg",
+  "w": 1600,
+  "h": 1420,
+  "angle": "3-4 direita com todos os acessorios enfileirados a esquerda (mini motorised, combination, crevice)",
+  "source": "currys.co.uk (produto 10277322, CDN media.currys.biz)",
+  "source_url": "https://media.currys.biz/i/currysprod/10277322?w=1600&fmt=jpg&qlt=90"
+ },
+ {
+  "file": "car-boat-02.jpg",
+  "w": 800,
+  "h": 1200,
+  "angle": "aparelho SOZINHO, sem acessorios, 3/4 direita (hero limpo)",
+  "source": "dyson.com.au (pagina oficial nova plataforma 'leap', imagem Product_Primary; PNG alpha composto sobre #FFFFFF)",
+  "source_url": "https://dyson-h.assetsadobe2.com/is/image/content/dam/dyson/leap-petite-global/dynamic-media/vacuums/handheld/car-boat/primary/Car-Boat_V8_Handheld_PDP_Product_Primary.png?fmt=png-alpha"
+ },
+ {
+  "file": "car-boat-03.jpg",
+  "w": 2585,
+  "h": 1150,
+  "angle": "vista de cima / frente reta: aparelho deitado, cabeca motorizada a esquerda, ciclone e reservatorio vistos de frente",
+  "source": "wired.it (still oficial do press kit Dyson usado na materia de lancamento; render Dyson, fundo branco)",
+  "source_url": "https://media-assets.wired.it/photos/67a9f279f06bbd723e748fea/master/pass/Dyson%2520Car+Boat_still.jpeg"
+ },
+ {
+  "file": "car-boat-04.jpg",
+  "w": 1200,
+  "h": 875,
+  "angle": "3/4 ESQUERDA / perfil baixo: aparelho deitado com a mini motorised tool acoplada, ciclone e gatilho visiveis",
+  "source": "consumerreports.org (foto de laboratorio da CR do modelo 586119-01, PNG transparente composto sobre #FFFFFF)",
+  "source_url": "https://crdms.images.consumerreports.org/f_auto,w_1200/prod/products/cr/models/417600-handheld-vacuums-dyson-car-boat-586119-01-10045070.png"
+ },
+ {
+  "file": "car-boat-05.jpg",
+  "w": 1600,
+  "h": 1200,
+  "angle": "frente/hero 3-4 direita, com os 3 acessorios ao lado",
+  "source": "dyson.co.uk (official product page, hero image)",
+  "source_url": "https://dyson-h.assetsadobe2.com/is/image/content/dam/dyson/images/products/hero/586121-01.png?wid=1600&fmt=png-alpha"
+ }
+]

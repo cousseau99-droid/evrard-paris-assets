@@ -1,0 +1,50 @@
+[
+ {
+  "file": "v8-cyclone-01.jpg",
+  "w": 2000,
+  "h": 2000,
+  "angle": "3/4 frente (hero) sem acessorios",
+  "source": "jbhifi.com.au (Dyson packshot kit, SKU AU 626406-01)",
+  "source_url": "https://s3.us-east-1.amazonaws.com/product-image-bucket-prod-us/894720-Product-1-I-639113837402515809.jpg"
+ },
+ {
+  "file": "v8-cyclone-02.jpg",
+  "w": 1000,
+  "h": 2000,
+  "angle": "frente (vista frontal ortogonal)",
+  "source": "jbhifi.com.au (Dyson kit; recorte da metade direita da imagem frente+perfil, fundo preenchido com branco)",
+  "source_url": "https://s3.us-east-1.amazonaws.com/product-image-bucket-prod-us/894720-Product-2-I-639113837402837258.jpg"
+ },
+ {
+  "file": "v8-cyclone-03.jpg",
+  "w": 1000,
+  "h": 2000,
+  "angle": "perfil / lado (vista lateral ortogonal)",
+  "source": "jbhifi.com.au (Dyson kit; recorte da metade esquerda da imagem frente+perfil, fundo preenchido com branco)",
+  "source_url": "https://s3.us-east-1.amazonaws.com/product-image-bucket-prod-us/894720-Product-2-I-639113837402837258.jpg"
+ },
+ {
+  "file": "v8-cyclone-04.jpg",
+  "w": 1500,
+  "h": 844,
+  "angle": "detalhe: unidade handheld (corpo/motor/ciclone) de lado",
+  "source": "dyson.com (official CDN, galeria PDP)",
+  "source_url": "https://dyson-h.assetsadobe2.com/is/image/content/dam/dyson/images/gallery/home/floorcare/cordless/cyclone-ds20/Web-285M-PDP-Gallery-3.jpg?fmt=jpg&qlt=95&bgc=FFFFFF"
+ },
+ {
+  "file": "v8-cyclone-05.jpg",
+  "w": 2000,
+  "h": 1125,
+  "angle": "3/4 frente com acessorios enfileirados ao lado (crevice, carregador, dock)",
+  "source": "harveynorman.co.nz (Dyson packshot kit, SKU 626406-01)",
+  "source_url": "https://hnsfpau.imgix.net/5/images/detailed/619/626406-01.01a.jpg?w=2000&fm=jpg&q=90"
+ },
+ {
+  "file": "v8-cyclone-06.jpg",
+  "w": 800,
+  "h": 1200,
+  "angle": "detalhe: cabeca Motorbar (cleaner head) isolada",
+  "source": "dyson.com (official CDN, packshot da peca 975289-01)",
+  "source_url": "https://dyson-h.assetsadobe2.com/is/image/content/dam/dyson/images/products/primary/975289-01.png?fmt=jpg&qlt=95&bgc=FFFFFF"
+ }
+]

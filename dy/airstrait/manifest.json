@@ -1,0 +1,50 @@
+[
+ {
+  "file": "airstrait-01.jpg",
+  "w": 1600,
+  "h": 1200,
+  "angle": "frente (hero) + perfil lado a lado, Nickel/Copper",
+  "source": "dyson.com.au (official product page, Nickel/Copper)",
+  "source_url": "https://dyson-h.assetsadobe2.com/is/image/content/dam/dyson/leap-petite-global/dynamic-media/personal-care/553/primary/553-Primary-BNKBCO_800x1200.png?wid=1600&fmt=png-alpha"
+ },
+ {
+  "file": "airstrait-02.jpg",
+  "w": 1000,
+  "h": 1500,
+  "angle": "3/4 esquerda, placas fechadas, lado do copper, Prussian Blue",
+  "source": "amazon.co.uk (ASIN B0CVB9G1FC, Prussian Blue/Rich Copper)",
+  "source_url": "https://m.media-amazon.com/images/I/61wX3ROjJ8L._AC_SL1500_.jpg"
+ },
+ {
+  "file": "airstrait-03.jpg",
+  "w": 1500,
+  "h": 1500,
+  "angle": "detalhe dos controles (botoes de temperatura/fluxo), Ceramic Pink",
+  "source": "amazon.de (ASIN B0F7LT3RZ8, Ceramic Pink/Rose Gold)",
+  "source_url": "https://m.media-amazon.com/images/I/61VOXQIUUyL._SL1500_.jpg"
+ },
+ {
+  "file": "airstrait-04.jpg",
+  "w": 1600,
+  "h": 900,
+  "angle": "perfil/lado com placas abertas, Ceramic Pink",
+  "source": "dyson.de (official product page, Ceramic Pink)",
+  "source_url": "https://dyson-h.assetsadobe2.com/is/image/content/dam/dyson/images/gallery/beauty/hair-straighteners/airstrait/ceramic-pink-rose-gold/Web_946A_WEST_Gallery_Card_4.jpg?wid=1600&fmt=jpg&qlt=95&bgc=FFFFFF"
+ },
+ {
+  "file": "airstrait-05.jpg",
+  "w": 1500,
+  "h": 1500,
+  "angle": "frente + acessorios (estojo e tapete termico), acabamento cobre",
+  "source": "amazon.de (ASIN B0F7LT3RZ8 gallery, variante acabamento cobre)",
+  "source_url": "https://m.media-amazon.com/images/I/51GhNMTcZSL._SL1500_.jpg"
+ },
+ {
+  "file": "airstrait-06.jpg",
+  "w": 1600,
+  "h": 810,
+  "angle": "vista de cima dentro do estojo (acessorio), Prussian Blue",
+  "source": "dyson.ch (official product page, Prussian Blue)",
+  "source_url": "https://dyson-h.assetsadobe2.com/is/image/content/dam/dyson/products/hair-care/airstrait-553-2023/pdp/dkblbco/gallery/553-leap-M2-DKBLBCO-1440x810-gallery-1x.jpg?wid=1600&fmt=jpg&qlt=95&bgc=FFFFFF"
+ }
+]

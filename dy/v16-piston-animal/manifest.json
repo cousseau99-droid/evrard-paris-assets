@@ -1,0 +1,42 @@
+[
+ {
+  "file": "v16-piston-animal-01.jpg",
+  "w": 1600,
+  "h": 1600,
+  "angle": "frente/hero 3-4 com kit AU (3 ferramentas)",
+  "source": "jbhifi.com.au (product .js)",
+  "source_url": "https://cdn.shopify.com/s/files/1/0024/9803/5810/files/817755-Product-0-I-638922815407155722.jpg?width=1600"
+ },
+ {
+  "file": "v16-piston-animal-02.jpg",
+  "w": 492,
+  "h": 1726,
+  "angle": "frente (vista frontal completa, aspirador em pe, sem acessorios)",
+  "source": "dyson.co.uk (official product hero video 3840x2160, frame em 26.2s do trecho em fundo branco, recortado ao produto)",
+  "source_url": "https://www.dyson.co.uk/content/dam/dyson/video/products/primary/499085-01.mp4"
+ },
+ {
+  "file": "v16-piston-animal-03.jpg",
+  "w": 1600,
+  "h": 720,
+  "angle": "todos os acessorios enfileirados (in the box, sem texto)",
+  "source": "dyson.com / dyson.de (official gallery)",
+  "source_url": "https://dyson-h.assetsadobe2.com/is/image/content/dam/dyson/images/gallery/home/floorcare/cordless/ds60/piston-animal/Web-692B-PDP-Gallery-Piston-Animal-Module04-Large.jpg?wid=1600&fmt=jpg"
+ },
+ {
+  "file": "v16-piston-animal-04.jpg",
+  "w": 1000,
+  "h": 1000,
+  "angle": "detalhe: cabecote All Floor Cones Sense (escova conica vermelha/azul) isolado, vista frontal",
+  "source": "dyson.com (official Scene7 packshot da ferramenta 974681-02, PNG transparente composto sobre #FFFFFF e recortado centrado)",
+  "source_url": "https://dyson-h.assetsadobe2.com/is/image/content/dam/dyson/images/products/primary/974681-02.png?wid=1600&fmt=png-alpha"
+ },
+ {
+  "file": "v16-piston-animal-05.jpg",
+  "w": 1000,
+  "h": 1000,
+  "angle": "detalhe: acessorio Conical Hair Screw tool (mini escova motorizada) isolado",
+  "source": "dyson.com (official Scene7 packshot da ferramenta 974678-01, PNG transparente composto sobre #FFFFFF e recortado centrado)",
+  "source_url": "https://dyson-h.assetsadobe2.com/is/image/content/dam/dyson/images/products/primary/974678-01.png?wid=1600&fmt=png-alpha"
+ }
+]
